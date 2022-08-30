@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yershat
 - 👀 I’m interested in data science/analytics 
-- 🌱 I’m currently learning economics and statistics at Simon Fraser University
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m studied economics and statistics at Simon Fraser University
 - 📫 You can reach me via email(yershat.kuanysh@gmail.com)
 
 <!---
