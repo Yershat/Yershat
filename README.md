@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Yershat
 - 👀 I’m interested in data science/analytics 
+- My leetcode: https://leetcode.com/user3699XR/
 - 🌱 I studied economics and statistics at Simon Fraser University
 - 📫 You can reach me via email(yershat.kuanysh@gmail.com)
 - Codewars : https://www.codewars.com/users/Yershat
